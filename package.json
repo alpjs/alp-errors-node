@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/alpjs/alp-errors-node#readme",
   "devDependencies": {
-    "eslint": "^2.10.1",
-    "eslint-config-pob": "^5.0.0",
+    "eslint": "^3.2.2",
+    "eslint-config-pob": "^6.1.4",
     "springbokjs-library": "^17.0.0"
   },
   "dependencies": {
