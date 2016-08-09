@@ -28,7 +28,7 @@
     "springbokjs-library": "^17.0.0"
   },
   "dependencies": {
-    "alouette": "^5.1.0",
+    "alouette": "^5.3.0",
     "nightingale-logger": "^1.1.0"
   }
 }
