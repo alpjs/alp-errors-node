@@ -26,7 +26,7 @@
     "watch:dev": "pob-watch"
   },
   "dependencies": {
-    "alouette": "^5.3.0",
+    "alouette": "^5.4.0",
     "nightingale-logger": "^1.2.0"
   },
   "devDependencies": {
