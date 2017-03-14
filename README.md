@@ -1,5 +1,7 @@
 # alp-errors-node [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-errors-node.svg)](https://greenkeeper.io/)
+
 display errors in alp framework
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
